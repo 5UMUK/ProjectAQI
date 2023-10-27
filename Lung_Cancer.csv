@@ -1,0 +1,1168 @@
+Notes,Cancer Sites,Cancer Sites Code,State,State Code,Year,Year Code,Deaths
+,Respiratory System,22010-22060,Alabama,1.0,1999.0,1999.0,2920.0
+,Respiratory System,22010-22060,Alabama,1.0,2000.0,2000.0,3064.0
+,Respiratory System,22010-22060,Alabama,1.0,2001.0,2001.0,2995.0
+,Respiratory System,22010-22060,Alabama,1.0,2002.0,2002.0,3067.0
+,Respiratory System,22010-22060,Alabama,1.0,2003.0,2003.0,3188.0
+,Respiratory System,22010-22060,Alabama,1.0,2004.0,2004.0,3127.0
+,Respiratory System,22010-22060,Alabama,1.0,2005.0,2005.0,3239.0
+,Respiratory System,22010-22060,Alabama,1.0,2006.0,2006.0,3119.0
+,Respiratory System,22010-22060,Alabama,1.0,2007.0,2007.0,3235.0
+,Respiratory System,22010-22060,Alabama,1.0,2008.0,2008.0,3175.0
+,Respiratory System,22010-22060,Alabama,1.0,2009.0,2009.0,3383.0
+,Respiratory System,22010-22060,Alabama,1.0,2010.0,2010.0,3320.0
+,Respiratory System,22010-22060,Alabama,1.0,2011.0,2011.0,3269.0
+,Respiratory System,22010-22060,Alabama,1.0,2012.0,2012.0,3153.0
+,Respiratory System,22010-22060,Alabama,1.0,2013.0,2013.0,3237.0
+,Respiratory System,22010-22060,Alabama,1.0,2014.0,2014.0,3200.0
+,Respiratory System,22010-22060,Alabama,1.0,2015.0,2015.0,3064.0
+,Respiratory System,22010-22060,Alabama,1.0,2016.0,2016.0,3096.0
+,Respiratory System,22010-22060,Alabama,1.0,2017.0,2017.0,3045.0
+,Respiratory System,22010-22060,Alabama,1.0,2018.0,2018.0,3035.0
+,Respiratory System,22010-22060,Alabama,1.0,2019.0,2019.0,2843.0
+,Respiratory System,22010-22060,Alabama,1.0,2020.0,2020.0,2833.0
+,Respiratory System,22010-22060,Alaska,2.0,1999.0,1999.0,182.0
+,Respiratory System,22010-22060,Alaska,2.0,2000.0,2000.0,207.0
+,Respiratory System,22010-22060,Alaska,2.0,2001.0,2001.0,198.0
+,Respiratory System,22010-22060,Alaska,2.0,2002.0,2002.0,201.0
+,Respiratory System,22010-22060,Alaska,2.0,2003.0,2003.0,215.0
+,Respiratory System,22010-22060,Alaska,2.0,2004.0,2004.0,232.0
+,Respiratory System,22010-22060,Alaska,2.0,2005.0,2005.0,218.0
+,Respiratory System,22010-22060,Alaska,2.0,2006.0,2006.0,211.0
+,Respiratory System,22010-22060,Alaska,2.0,2007.0,2007.0,256.0
+,Respiratory System,22010-22060,Alaska,2.0,2008.0,2008.0,262.0
+,Respiratory System,22010-22060,Alaska,2.0,2009.0,2009.0,275.0
+,Respiratory System,22010-22060,Alaska,2.0,2010.0,2010.0,246.0
+,Respiratory System,22010-22060,Alaska,2.0,2011.0,2011.0,270.0
+,Respiratory System,22010-22060,Alaska,2.0,2012.0,2012.0,263.0
+,Respiratory System,22010-22060,Alaska,2.0,2013.0,2013.0,279.0
+,Respiratory System,22010-22060,Alaska,2.0,2014.0,2014.0,245.0
+,Respiratory System,22010-22060,Alaska,2.0,2015.0,2015.0,262.0
+,Respiratory System,22010-22060,Alaska,2.0,2016.0,2016.0,236.0
+,Respiratory System,22010-22060,Alaska,2.0,2017.0,2017.0,210.0
+,Respiratory System,22010-22060,Alaska,2.0,2018.0,2018.0,216.0
+,Respiratory System,22010-22060,Alaska,2.0,2019.0,2019.0,230.0
+,Respiratory System,22010-22060,Alaska,2.0,2020.0,2020.0,245.0
+,Respiratory System,22010-22060,Arizona,4.0,1999.0,1999.0,2579.0
+,Respiratory System,22010-22060,Arizona,4.0,2000.0,2000.0,2574.0
+,Respiratory System,22010-22060,Arizona,4.0,2001.0,2001.0,2520.0
+,Respiratory System,22010-22060,Arizona,4.0,2002.0,2002.0,2683.0
+,Respiratory System,22010-22060,Arizona,4.0,2003.0,2003.0,2783.0
+,Respiratory System,22010-22060,Arizona,4.0,2004.0,2004.0,2751.0
+,Respiratory System,22010-22060,Arizona,4.0,2005.0,2005.0,2718.0
+,Respiratory System,22010-22060,Arizona,4.0,2006.0,2006.0,2816.0
+,Respiratory System,22010-22060,Arizona,4.0,2007.0,2007.0,2691.0
+,Respiratory System,22010-22060,Arizona,4.0,2008.0,2008.0,2726.0
+,Respiratory System,22010-22060,Arizona,4.0,2009.0,2009.0,2813.0
+,Respiratory System,22010-22060,Arizona,4.0,2010.0,2010.0,2798.0
+,Respiratory System,22010-22060,Arizona,4.0,2011.0,2011.0,2731.0
+,Respiratory System,22010-22060,Arizona,4.0,2012.0,2012.0,2869.0
+,Respiratory System,22010-22060,Arizona,4.0,2013.0,2013.0,2855.0
+,Respiratory System,22010-22060,Arizona,4.0,2014.0,2014.0,2787.0
+,Respiratory System,22010-22060,Arizona,4.0,2015.0,2015.0,3009.0
+,Respiratory System,22010-22060,Arizona,4.0,2016.0,2016.0,2794.0
+,Respiratory System,22010-22060,Arizona,4.0,2017.0,2017.0,2869.0
+,Respiratory System,22010-22060,Arizona,4.0,2018.0,2018.0,2721.0
+,Respiratory System,22010-22060,Arizona,4.0,2019.0,2019.0,2591.0
+,Respiratory System,22010-22060,Arizona,4.0,2020.0,2020.0,2684.0
+,Respiratory System,22010-22060,Arkansas,5.0,1999.0,1999.0,1993.0
+,Respiratory System,22010-22060,Arkansas,5.0,2000.0,2000.0,2027.0
+,Respiratory System,22010-22060,Arkansas,5.0,2001.0,2001.0,2043.0
+,Respiratory System,22010-22060,Arkansas,5.0,2002.0,2002.0,2184.0
+,Respiratory System,22010-22060,Arkansas,5.0,2003.0,2003.0,2064.0
+,Respiratory System,22010-22060,Arkansas,5.0,2004.0,2004.0,2148.0
+,Respiratory System,22010-22060,Arkansas,5.0,2005.0,2005.0,2222.0
+,Respiratory System,22010-22060,Arkansas,5.0,2006.0,2006.0,2121.0
+,Respiratory System,22010-22060,Arkansas,5.0,2007.0,2007.0,2073.0
+,Respiratory System,22010-22060,Arkansas,5.0,2008.0,2008.0,2276.0
+,Respiratory System,22010-22060,Arkansas,5.0,2009.0,2009.0,2185.0
+,Respiratory System,22010-22060,Arkansas,5.0,2010.0,2010.0,2166.0
+,Respiratory System,22010-22060,Arkansas,5.0,2011.0,2011.0,2154.0
+,Respiratory System,22010-22060,Arkansas,5.0,2012.0,2012.0,2183.0
+,Respiratory System,22010-22060,Arkansas,5.0,2013.0,2013.0,2204.0
+,Respiratory System,22010-22060,Arkansas,5.0,2014.0,2014.0,2101.0
+,Respiratory System,22010-22060,Arkansas,5.0,2015.0,2015.0,2185.0
+,Respiratory System,22010-22060,Arkansas,5.0,2016.0,2016.0,2066.0
+,Respiratory System,22010-22060,Arkansas,5.0,2017.0,2017.0,2016.0
+,Respiratory System,22010-22060,Arkansas,5.0,2018.0,2018.0,1921.0
+,Respiratory System,22010-22060,Arkansas,5.0,2019.0,2019.0,1884.0
+,Respiratory System,22010-22060,Arkansas,5.0,2020.0,2020.0,1924.0
+,Respiratory System,22010-22060,California,6.0,1999.0,1999.0,14135.0
+,Respiratory System,22010-22060,California,6.0,2000.0,2000.0,14060.0
+,Respiratory System,22010-22060,California,6.0,2001.0,2001.0,14416.0
+,Respiratory System,22010-22060,California,6.0,2002.0,2002.0,14206.0
+,Respiratory System,22010-22060,California,6.0,2003.0,2003.0,14052.0
+,Respiratory System,22010-22060,California,6.0,2004.0,2004.0,13779.0
+,Respiratory System,22010-22060,California,6.0,2005.0,2005.0,13734.0
+,Respiratory System,22010-22060,California,6.0,2006.0,2006.0,13590.0
+,Respiratory System,22010-22060,California,6.0,2007.0,2007.0,13549.0
+,Respiratory System,22010-22060,California,6.0,2008.0,2008.0,13428.0
+,Respiratory System,22010-22060,California,6.0,2009.0,2009.0,13517.0
+,Respiratory System,22010-22060,California,6.0,2010.0,2010.0,13345.0
+,Respiratory System,22010-22060,California,6.0,2011.0,2011.0,13095.0
+,Respiratory System,22010-22060,California,6.0,2012.0,2012.0,12888.0
+,Respiratory System,22010-22060,California,6.0,2013.0,2013.0,12833.0
+,Respiratory System,22010-22060,California,6.0,2014.0,2014.0,12649.0
+,Respiratory System,22010-22060,California,6.0,2015.0,2015.0,12743.0
+,Respiratory System,22010-22060,California,6.0,2016.0,2016.0,12081.0
+,Respiratory System,22010-22060,California,6.0,2017.0,2017.0,11904.0
+,Respiratory System,22010-22060,California,6.0,2018.0,2018.0,11468.0
+,Respiratory System,22010-22060,California,6.0,2019.0,2019.0,11107.0
+,Respiratory System,22010-22060,California,6.0,2020.0,2020.0,10737.0
+,Respiratory System,22010-22060,Colorado,8.0,1999.0,1999.0,1406.0
+,Respiratory System,22010-22060,Colorado,8.0,2000.0,2000.0,1463.0
+,Respiratory System,22010-22060,Colorado,8.0,2001.0,2001.0,1530.0
+,Respiratory System,22010-22060,Colorado,8.0,2002.0,2002.0,1583.0
+,Respiratory System,22010-22060,Colorado,8.0,2003.0,2003.0,1591.0
+,Respiratory System,22010-22060,Colorado,8.0,2004.0,2004.0,1534.0
+,Respiratory System,22010-22060,Colorado,8.0,2005.0,2005.0,1577.0
+,Respiratory System,22010-22060,Colorado,8.0,2006.0,2006.0,1595.0
+,Respiratory System,22010-22060,Colorado,8.0,2007.0,2007.0,1619.0
+,Respiratory System,22010-22060,Colorado,8.0,2008.0,2008.0,1641.0
+,Respiratory System,22010-22060,Colorado,8.0,2009.0,2009.0,1673.0
+,Respiratory System,22010-22060,Colorado,8.0,2010.0,2010.0,1686.0
+,Respiratory System,22010-22060,Colorado,8.0,2011.0,2011.0,1628.0
+,Respiratory System,22010-22060,Colorado,8.0,2012.0,2012.0,1634.0
+,Respiratory System,22010-22060,Colorado,8.0,2013.0,2013.0,1599.0
+,Respiratory System,22010-22060,Colorado,8.0,2014.0,2014.0,1630.0
+,Respiratory System,22010-22060,Colorado,8.0,2015.0,2015.0,1595.0
+,Respiratory System,22010-22060,Colorado,8.0,2016.0,2016.0,1640.0
+,Respiratory System,22010-22060,Colorado,8.0,2017.0,2017.0,1547.0
+,Respiratory System,22010-22060,Colorado,8.0,2018.0,2018.0,1457.0
+,Respiratory System,22010-22060,Colorado,8.0,2019.0,2019.0,1517.0
+,Respiratory System,22010-22060,Colorado,8.0,2020.0,2020.0,1538.0
+,Respiratory System,22010-22060,Connecticut,9.0,1999.0,1999.0,1854.0
+,Respiratory System,22010-22060,Connecticut,9.0,2000.0,2000.0,1921.0
+,Respiratory System,22010-22060,Connecticut,9.0,2001.0,2001.0,1894.0
+,Respiratory System,22010-22060,Connecticut,9.0,2002.0,2002.0,1904.0
+,Respiratory System,22010-22060,Connecticut,9.0,2003.0,2003.0,1943.0
+,Respiratory System,22010-22060,Connecticut,9.0,2004.0,2004.0,1974.0
+,Respiratory System,22010-22060,Connecticut,9.0,2005.0,2005.0,1884.0
+,Respiratory System,22010-22060,Connecticut,9.0,2006.0,2006.0,1877.0
+,Respiratory System,22010-22060,Connecticut,9.0,2007.0,2007.0,1836.0
+,Respiratory System,22010-22060,Connecticut,9.0,2008.0,2008.0,1797.0
+,Respiratory System,22010-22060,Connecticut,9.0,2009.0,2009.0,1828.0
+,Respiratory System,22010-22060,Connecticut,9.0,2010.0,2010.0,1893.0
+,Respiratory System,22010-22060,Connecticut,9.0,2011.0,2011.0,1778.0
+,Respiratory System,22010-22060,Connecticut,9.0,2012.0,2012.0,1691.0
+,Respiratory System,22010-22060,Connecticut,9.0,2013.0,2013.0,1710.0
+,Respiratory System,22010-22060,Connecticut,9.0,2014.0,2014.0,1691.0
+,Respiratory System,22010-22060,Connecticut,9.0,2015.0,2015.0,1615.0
+,Respiratory System,22010-22060,Connecticut,9.0,2016.0,2016.0,1616.0
+,Respiratory System,22010-22060,Connecticut,9.0,2017.0,2017.0,1554.0
+,Respiratory System,22010-22060,Connecticut,9.0,2018.0,2018.0,1515.0
+,Respiratory System,22010-22060,Connecticut,9.0,2019.0,2019.0,1437.0
+,Respiratory System,22010-22060,Connecticut,9.0,2020.0,2020.0,1467.0
+,Respiratory System,22010-22060,Delaware,10.0,1999.0,1999.0,559.0
+,Respiratory System,22010-22060,Delaware,10.0,2000.0,2000.0,489.0
+,Respiratory System,22010-22060,Delaware,10.0,2001.0,2001.0,537.0
+,Respiratory System,22010-22060,Delaware,10.0,2002.0,2002.0,488.0
+,Respiratory System,22010-22060,Delaware,10.0,2003.0,2003.0,560.0
+,Respiratory System,22010-22060,Delaware,10.0,2004.0,2004.0,609.0
+,Respiratory System,22010-22060,Delaware,10.0,2005.0,2005.0,584.0
+,Respiratory System,22010-22060,Delaware,10.0,2006.0,2006.0,574.0
+,Respiratory System,22010-22060,Delaware,10.0,2007.0,2007.0,564.0
+,Respiratory System,22010-22060,Delaware,10.0,2008.0,2008.0,595.0
+,Respiratory System,22010-22060,Delaware,10.0,2009.0,2009.0,544.0
+,Respiratory System,22010-22060,Delaware,10.0,2010.0,2010.0,622.0
+,Respiratory System,22010-22060,Delaware,10.0,2011.0,2011.0,573.0
+,Respiratory System,22010-22060,Delaware,10.0,2012.0,2012.0,594.0
+,Respiratory System,22010-22060,Delaware,10.0,2013.0,2013.0,562.0
+,Respiratory System,22010-22060,Delaware,10.0,2014.0,2014.0,571.0
+,Respiratory System,22010-22060,Delaware,10.0,2015.0,2015.0,578.0
+,Respiratory System,22010-22060,Delaware,10.0,2016.0,2016.0,575.0
+,Respiratory System,22010-22060,Delaware,10.0,2017.0,2017.0,567.0
+,Respiratory System,22010-22060,Delaware,10.0,2018.0,2018.0,551.0
+,Respiratory System,22010-22060,Delaware,10.0,2019.0,2019.0,524.0
+,Respiratory System,22010-22060,Delaware,10.0,2020.0,2020.0,524.0
+,Respiratory System,22010-22060,District of Columbia,11.0,1999.0,1999.0,325.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2000.0,2000.0,340.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2001.0,2001.0,339.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2002.0,2002.0,345.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2003.0,2003.0,301.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2004.0,2004.0,301.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2005.0,2005.0,301.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2006.0,2006.0,283.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2007.0,2007.0,280.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2008.0,2008.0,307.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2009.0,2009.0,249.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2010.0,2010.0,235.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2011.0,2011.0,248.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2012.0,2012.0,252.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2013.0,2013.0,268.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2014.0,2014.0,255.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2015.0,2015.0,215.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2016.0,2016.0,194.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2017.0,2017.0,214.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2018.0,2018.0,179.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2019.0,2019.0,202.0
+,Respiratory System,22010-22060,District of Columbia,11.0,2020.0,2020.0,186.0
+,Respiratory System,22010-22060,Florida,12.0,1999.0,1999.0,11849.0
+,Respiratory System,22010-22060,Florida,12.0,2000.0,2000.0,12118.0
+,Respiratory System,22010-22060,Florida,12.0,2001.0,2001.0,12158.0
+,Respiratory System,22010-22060,Florida,12.0,2002.0,2002.0,12209.0
+,Respiratory System,22010-22060,Florida,12.0,2003.0,2003.0,12302.0
+,Respiratory System,22010-22060,Florida,12.0,2004.0,2004.0,12425.0
+,Respiratory System,22010-22060,Florida,12.0,2005.0,2005.0,12466.0
+,Respiratory System,22010-22060,Florida,12.0,2006.0,2006.0,12429.0
+,Respiratory System,22010-22060,Florida,12.0,2007.0,2007.0,12060.0
+,Respiratory System,22010-22060,Florida,12.0,2008.0,2008.0,12335.0
+,Respiratory System,22010-22060,Florida,12.0,2009.0,2009.0,12237.0
+,Respiratory System,22010-22060,Florida,12.0,2010.0,2010.0,12387.0
+,Respiratory System,22010-22060,Florida,12.0,2011.0,2011.0,12185.0
+,Respiratory System,22010-22060,Florida,12.0,2012.0,2012.0,12344.0
+,Respiratory System,22010-22060,Florida,12.0,2013.0,2013.0,12263.0
+,Respiratory System,22010-22060,Florida,12.0,2014.0,2014.0,12151.0
+,Respiratory System,22010-22060,Florida,12.0,2015.0,2015.0,12318.0
+,Respiratory System,22010-22060,Florida,12.0,2016.0,2016.0,11635.0
+,Respiratory System,22010-22060,Florida,12.0,2017.0,2017.0,11820.0
+,Respiratory System,22010-22060,Florida,12.0,2018.0,2018.0,11675.0
+,Respiratory System,22010-22060,Florida,12.0,2019.0,2019.0,11316.0
+,Respiratory System,22010-22060,Florida,12.0,2020.0,2020.0,11238.0
+,Respiratory System,22010-22060,Georgia,13.0,1999.0,1999.0,4030.0
+,Respiratory System,22010-22060,Georgia,13.0,2000.0,2000.0,4288.0
+,Respiratory System,22010-22060,Georgia,13.0,2001.0,2001.0,4337.0
+,Respiratory System,22010-22060,Georgia,13.0,2002.0,2002.0,4308.0
+,Respiratory System,22010-22060,Georgia,13.0,2003.0,2003.0,4386.0
+,Respiratory System,22010-22060,Georgia,13.0,2004.0,2004.0,4437.0
+,Respiratory System,22010-22060,Georgia,13.0,2005.0,2005.0,4489.0
+,Respiratory System,22010-22060,Georgia,13.0,2006.0,2006.0,4582.0
+,Respiratory System,22010-22060,Georgia,13.0,2007.0,2007.0,4571.0
+,Respiratory System,22010-22060,Georgia,13.0,2008.0,2008.0,4422.0
+,Respiratory System,22010-22060,Georgia,13.0,2009.0,2009.0,4614.0
+,Respiratory System,22010-22060,Georgia,13.0,2010.0,2010.0,4569.0
+,Respiratory System,22010-22060,Georgia,13.0,2011.0,2011.0,4604.0
+,Respiratory System,22010-22060,Georgia,13.0,2012.0,2012.0,4752.0
+,Respiratory System,22010-22060,Georgia,13.0,2013.0,2013.0,4707.0
+,Respiratory System,22010-22060,Georgia,13.0,2014.0,2014.0,4737.0
+,Respiratory System,22010-22060,Georgia,13.0,2015.0,2015.0,4568.0
+,Respiratory System,22010-22060,Georgia,13.0,2016.0,2016.0,4556.0
+,Respiratory System,22010-22060,Georgia,13.0,2017.0,2017.0,4542.0
+,Respiratory System,22010-22060,Georgia,13.0,2018.0,2018.0,4557.0
+,Respiratory System,22010-22060,Georgia,13.0,2019.0,2019.0,4467.0
+,Respiratory System,22010-22060,Georgia,13.0,2020.0,2020.0,4310.0
+,Respiratory System,22010-22060,Hawaii,15.0,1999.0,1999.0,466.0
+,Respiratory System,22010-22060,Hawaii,15.0,2000.0,2000.0,454.0
+,Respiratory System,22010-22060,Hawaii,15.0,2001.0,2001.0,495.0
+,Respiratory System,22010-22060,Hawaii,15.0,2002.0,2002.0,428.0
+,Respiratory System,22010-22060,Hawaii,15.0,2003.0,2003.0,528.0
+,Respiratory System,22010-22060,Hawaii,15.0,2004.0,2004.0,532.0
+,Respiratory System,22010-22060,Hawaii,15.0,2005.0,2005.0,591.0
+,Respiratory System,22010-22060,Hawaii,15.0,2006.0,2006.0,582.0
+,Respiratory System,22010-22060,Hawaii,15.0,2007.0,2007.0,564.0
+,Respiratory System,22010-22060,Hawaii,15.0,2008.0,2008.0,577.0
+,Respiratory System,22010-22060,Hawaii,15.0,2009.0,2009.0,566.0
+,Respiratory System,22010-22060,Hawaii,15.0,2010.0,2010.0,564.0
+,Respiratory System,22010-22060,Hawaii,15.0,2011.0,2011.0,556.0
+,Respiratory System,22010-22060,Hawaii,15.0,2012.0,2012.0,512.0
+,Respiratory System,22010-22060,Hawaii,15.0,2013.0,2013.0,582.0
+,Respiratory System,22010-22060,Hawaii,15.0,2014.0,2014.0,577.0
+,Respiratory System,22010-22060,Hawaii,15.0,2015.0,2015.0,612.0
+,Respiratory System,22010-22060,Hawaii,15.0,2016.0,2016.0,557.0
+,Respiratory System,22010-22060,Hawaii,15.0,2017.0,2017.0,559.0
+,Respiratory System,22010-22060,Hawaii,15.0,2018.0,2018.0,538.0
+,Respiratory System,22010-22060,Hawaii,15.0,2019.0,2019.0,556.0
+,Respiratory System,22010-22060,Hawaii,15.0,2020.0,2020.0,500.0
+,Respiratory System,22010-22060,Idaho,16.0,1999.0,1999.0,506.0
+,Respiratory System,22010-22060,Idaho,16.0,2000.0,2000.0,552.0
+,Respiratory System,22010-22060,Idaho,16.0,2001.0,2001.0,561.0
+,Respiratory System,22010-22060,Idaho,16.0,2002.0,2002.0,545.0
+,Respiratory System,22010-22060,Idaho,16.0,2003.0,2003.0,609.0
+,Respiratory System,22010-22060,Idaho,16.0,2004.0,2004.0,546.0
+,Respiratory System,22010-22060,Idaho,16.0,2005.0,2005.0,626.0
+,Respiratory System,22010-22060,Idaho,16.0,2006.0,2006.0,610.0
+,Respiratory System,22010-22060,Idaho,16.0,2007.0,2007.0,621.0
+,Respiratory System,22010-22060,Idaho,16.0,2008.0,2008.0,642.0
+,Respiratory System,22010-22060,Idaho,16.0,2009.0,2009.0,651.0
+,Respiratory System,22010-22060,Idaho,16.0,2010.0,2010.0,637.0
+,Respiratory System,22010-22060,Idaho,16.0,2011.0,2011.0,633.0
+,Respiratory System,22010-22060,Idaho,16.0,2012.0,2012.0,631.0
+,Respiratory System,22010-22060,Idaho,16.0,2013.0,2013.0,643.0
+,Respiratory System,22010-22060,Idaho,16.0,2014.0,2014.0,680.0
+,Respiratory System,22010-22060,Idaho,16.0,2015.0,2015.0,666.0
+,Respiratory System,22010-22060,Idaho,16.0,2016.0,2016.0,596.0
+,Respiratory System,22010-22060,Idaho,16.0,2017.0,2017.0,623.0
+,Respiratory System,22010-22060,Idaho,16.0,2018.0,2018.0,656.0
+,Respiratory System,22010-22060,Idaho,16.0,2019.0,2019.0,594.0
+,Respiratory System,22010-22060,Idaho,16.0,2020.0,2020.0,605.0
+,Respiratory System,22010-22060,Illinois,17.0,1999.0,1999.0,6932.0
+,Respiratory System,22010-22060,Illinois,17.0,2000.0,2000.0,7036.0
+,Respiratory System,22010-22060,Illinois,17.0,2001.0,2001.0,6990.0
+,Respiratory System,22010-22060,Illinois,17.0,2002.0,2002.0,7039.0
+,Respiratory System,22010-22060,Illinois,17.0,2003.0,2003.0,7067.0
+,Respiratory System,22010-22060,Illinois,17.0,2004.0,2004.0,6972.0
+,Respiratory System,22010-22060,Illinois,17.0,2005.0,2005.0,6792.0
+,Respiratory System,22010-22060,Illinois,17.0,2006.0,2006.0,6864.0
+,Respiratory System,22010-22060,Illinois,17.0,2007.0,2007.0,7103.0
+,Respiratory System,22010-22060,Illinois,17.0,2008.0,2008.0,6988.0
+,Respiratory System,22010-22060,Illinois,17.0,2009.0,2009.0,6849.0
+,Respiratory System,22010-22060,Illinois,17.0,2010.0,2010.0,6834.0
+,Respiratory System,22010-22060,Illinois,17.0,2011.0,2011.0,6800.0
+,Respiratory System,22010-22060,Illinois,17.0,2012.0,2012.0,6871.0
+,Respiratory System,22010-22060,Illinois,17.0,2013.0,2013.0,6734.0
+,Respiratory System,22010-22060,Illinois,17.0,2014.0,2014.0,6846.0
+,Respiratory System,22010-22060,Illinois,17.0,2015.0,2015.0,6598.0
+,Respiratory System,22010-22060,Illinois,17.0,2016.0,2016.0,6434.0
+,Respiratory System,22010-22060,Illinois,17.0,2017.0,2017.0,6193.0
+,Respiratory System,22010-22060,Illinois,17.0,2018.0,2018.0,5927.0
+,Respiratory System,22010-22060,Illinois,17.0,2019.0,2019.0,5915.0
+,Respiratory System,22010-22060,Illinois,17.0,2020.0,2020.0,5689.0
+,Respiratory System,22010-22060,Indiana,18.0,1999.0,1999.0,3990.0
+,Respiratory System,22010-22060,Indiana,18.0,2000.0,2000.0,4017.0
+,Respiratory System,22010-22060,Indiana,18.0,2001.0,2001.0,4033.0
+,Respiratory System,22010-22060,Indiana,18.0,2002.0,2002.0,4072.0
+,Respiratory System,22010-22060,Indiana,18.0,2003.0,2003.0,4154.0
+,Respiratory System,22010-22060,Indiana,18.0,2004.0,2004.0,3916.0
+,Respiratory System,22010-22060,Indiana,18.0,2005.0,2005.0,4110.0
+,Respiratory System,22010-22060,Indiana,18.0,2006.0,2006.0,4102.0
+,Respiratory System,22010-22060,Indiana,18.0,2007.0,2007.0,4111.0
+,Respiratory System,22010-22060,Indiana,18.0,2008.0,2008.0,4267.0
+,Respiratory System,22010-22060,Indiana,18.0,2009.0,2009.0,4165.0
+,Respiratory System,22010-22060,Indiana,18.0,2010.0,2010.0,4212.0
+,Respiratory System,22010-22060,Indiana,18.0,2011.0,2011.0,3982.0
+,Respiratory System,22010-22060,Indiana,18.0,2012.0,2012.0,4087.0
+,Respiratory System,22010-22060,Indiana,18.0,2013.0,2013.0,4122.0
+,Respiratory System,22010-22060,Indiana,18.0,2014.0,2014.0,4151.0
+,Respiratory System,22010-22060,Indiana,18.0,2015.0,2015.0,3965.0
+,Respiratory System,22010-22060,Indiana,18.0,2016.0,2016.0,3982.0
+,Respiratory System,22010-22060,Indiana,18.0,2017.0,2017.0,3888.0
+,Respiratory System,22010-22060,Indiana,18.0,2018.0,2018.0,3776.0
+,Respiratory System,22010-22060,Indiana,18.0,2019.0,2019.0,3734.0
+,Respiratory System,22010-22060,Indiana,18.0,2020.0,2020.0,3668.0
+,Respiratory System,22010-22060,Iowa,19.0,1999.0,1999.0,1732.0
+,Respiratory System,22010-22060,Iowa,19.0,2000.0,2000.0,1778.0
+,Respiratory System,22010-22060,Iowa,19.0,2001.0,2001.0,1764.0
+,Respiratory System,22010-22060,Iowa,19.0,2002.0,2002.0,1776.0
+,Respiratory System,22010-22060,Iowa,19.0,2003.0,2003.0,1823.0
+,Respiratory System,22010-22060,Iowa,19.0,2004.0,2004.0,1873.0
+,Respiratory System,22010-22060,Iowa,19.0,2005.0,2005.0,1892.0
+,Respiratory System,22010-22060,Iowa,19.0,2006.0,2006.0,1756.0
+,Respiratory System,22010-22060,Iowa,19.0,2007.0,2007.0,1874.0
+,Respiratory System,22010-22060,Iowa,19.0,2008.0,2008.0,1852.0
+,Respiratory System,22010-22060,Iowa,19.0,2009.0,2009.0,1797.0
+,Respiratory System,22010-22060,Iowa,19.0,2010.0,2010.0,1782.0
+,Respiratory System,22010-22060,Iowa,19.0,2011.0,2011.0,1779.0
+,Respiratory System,22010-22060,Iowa,19.0,2012.0,2012.0,1797.0
+,Respiratory System,22010-22060,Iowa,19.0,2013.0,2013.0,1856.0
+,Respiratory System,22010-22060,Iowa,19.0,2014.0,2014.0,1730.0
+,Respiratory System,22010-22060,Iowa,19.0,2015.0,2015.0,1844.0
+,Respiratory System,22010-22060,Iowa,19.0,2016.0,2016.0,1725.0
+,Respiratory System,22010-22060,Iowa,19.0,2017.0,2017.0,1676.0
+,Respiratory System,22010-22060,Iowa,19.0,2018.0,2018.0,1620.0
+,Respiratory System,22010-22060,Iowa,19.0,2019.0,2019.0,1580.0
+,Respiratory System,22010-22060,Iowa,19.0,2020.0,2020.0,1546.0
+,Respiratory System,22010-22060,Kansas,20.0,1999.0,1999.0,1505.0
+,Respiratory System,22010-22060,Kansas,20.0,2000.0,2000.0,1502.0
+,Respiratory System,22010-22060,Kansas,20.0,2001.0,2001.0,1589.0
+,Respiratory System,22010-22060,Kansas,20.0,2002.0,2002.0,1528.0
+,Respiratory System,22010-22060,Kansas,20.0,2003.0,2003.0,1560.0
+,Respiratory System,22010-22060,Kansas,20.0,2004.0,2004.0,1588.0
+,Respiratory System,22010-22060,Kansas,20.0,2005.0,2005.0,1676.0
+,Respiratory System,22010-22060,Kansas,20.0,2006.0,2006.0,1612.0
+,Respiratory System,22010-22060,Kansas,20.0,2007.0,2007.0,1545.0
+,Respiratory System,22010-22060,Kansas,20.0,2008.0,2008.0,1596.0
+,Respiratory System,22010-22060,Kansas,20.0,2009.0,2009.0,1602.0
+,Respiratory System,22010-22060,Kansas,20.0,2010.0,2010.0,1529.0
+,Respiratory System,22010-22060,Kansas,20.0,2011.0,2011.0,1536.0
+,Respiratory System,22010-22060,Kansas,20.0,2012.0,2012.0,1539.0
+,Respiratory System,22010-22060,Kansas,20.0,2013.0,2013.0,1478.0
+,Respiratory System,22010-22060,Kansas,20.0,2014.0,2014.0,1609.0
+,Respiratory System,22010-22060,Kansas,20.0,2015.0,2015.0,1553.0
+,Respiratory System,22010-22060,Kansas,20.0,2016.0,2016.0,1399.0
+,Respiratory System,22010-22060,Kansas,20.0,2017.0,2017.0,1422.0
+,Respiratory System,22010-22060,Kansas,20.0,2018.0,2018.0,1422.0
+,Respiratory System,22010-22060,Kansas,20.0,2019.0,2019.0,1453.0
+,Respiratory System,22010-22060,Kansas,20.0,2020.0,2020.0,1369.0
+,Respiratory System,22010-22060,Kentucky,21.0,1999.0,1999.0,3054.0
+,Respiratory System,22010-22060,Kentucky,21.0,2000.0,2000.0,3350.0
+,Respiratory System,22010-22060,Kentucky,21.0,2001.0,2001.0,3421.0
+,Respiratory System,22010-22060,Kentucky,21.0,2002.0,2002.0,3433.0
+,Respiratory System,22010-22060,Kentucky,21.0,2003.0,2003.0,3406.0
+,Respiratory System,22010-22060,Kentucky,21.0,2004.0,2004.0,3396.0
+,Respiratory System,22010-22060,Kentucky,21.0,2005.0,2005.0,3477.0
+,Respiratory System,22010-22060,Kentucky,21.0,2006.0,2006.0,3416.0
+,Respiratory System,22010-22060,Kentucky,21.0,2007.0,2007.0,3475.0
+,Respiratory System,22010-22060,Kentucky,21.0,2008.0,2008.0,3565.0
+,Respiratory System,22010-22060,Kentucky,21.0,2009.0,2009.0,3376.0
+,Respiratory System,22010-22060,Kentucky,21.0,2010.0,2010.0,3653.0
+,Respiratory System,22010-22060,Kentucky,21.0,2011.0,2011.0,3463.0
+,Respiratory System,22010-22060,Kentucky,21.0,2012.0,2012.0,3575.0
+,Respiratory System,22010-22060,Kentucky,21.0,2013.0,2013.0,3653.0
+,Respiratory System,22010-22060,Kentucky,21.0,2014.0,2014.0,3638.0
+,Respiratory System,22010-22060,Kentucky,21.0,2015.0,2015.0,3548.0
+,Respiratory System,22010-22060,Kentucky,21.0,2016.0,2016.0,3442.0
+,Respiratory System,22010-22060,Kentucky,21.0,2017.0,2017.0,3249.0
+,Respiratory System,22010-22060,Kentucky,21.0,2018.0,2018.0,3169.0
+,Respiratory System,22010-22060,Kentucky,21.0,2019.0,2019.0,3159.0
+,Respiratory System,22010-22060,Kentucky,21.0,2020.0,2020.0,3073.0
+,Respiratory System,22010-22060,Louisiana,22.0,1999.0,1999.0,2780.0
+,Respiratory System,22010-22060,Louisiana,22.0,2000.0,2000.0,2922.0
+,Respiratory System,22010-22060,Louisiana,22.0,2001.0,2001.0,2986.0
+,Respiratory System,22010-22060,Louisiana,22.0,2002.0,2002.0,2911.0
+,Respiratory System,22010-22060,Louisiana,22.0,2003.0,2003.0,2948.0
+,Respiratory System,22010-22060,Louisiana,22.0,2004.0,2004.0,3021.0
+,Respiratory System,22010-22060,Louisiana,22.0,2005.0,2005.0,2922.0
+,Respiratory System,22010-22060,Louisiana,22.0,2006.0,2006.0,2742.0
+,Respiratory System,22010-22060,Louisiana,22.0,2007.0,2007.0,2713.0
+,Respiratory System,22010-22060,Louisiana,22.0,2008.0,2008.0,2794.0
+,Respiratory System,22010-22060,Louisiana,22.0,2009.0,2009.0,2788.0
+,Respiratory System,22010-22060,Louisiana,22.0,2010.0,2010.0,2789.0
+,Respiratory System,22010-22060,Louisiana,22.0,2011.0,2011.0,2793.0
+,Respiratory System,22010-22060,Louisiana,22.0,2012.0,2012.0,2818.0
+,Respiratory System,22010-22060,Louisiana,22.0,2013.0,2013.0,2805.0
+,Respiratory System,22010-22060,Louisiana,22.0,2014.0,2014.0,2777.0
+,Respiratory System,22010-22060,Louisiana,22.0,2015.0,2015.0,2742.0
+,Respiratory System,22010-22060,Louisiana,22.0,2016.0,2016.0,2578.0
+,Respiratory System,22010-22060,Louisiana,22.0,2017.0,2017.0,2634.0
+,Respiratory System,22010-22060,Louisiana,22.0,2018.0,2018.0,2560.0
+,Respiratory System,22010-22060,Louisiana,22.0,2019.0,2019.0,2558.0
+,Respiratory System,22010-22060,Louisiana,22.0,2020.0,2020.0,2440.0
+,Respiratory System,22010-22060,Maine,23.0,1999.0,1999.0,857.0
+,Respiratory System,22010-22060,Maine,23.0,2000.0,2000.0,923.0
+,Respiratory System,22010-22060,Maine,23.0,2001.0,2001.0,877.0
+,Respiratory System,22010-22060,Maine,23.0,2002.0,2002.0,969.0
+,Respiratory System,22010-22060,Maine,23.0,2003.0,2003.0,972.0
+,Respiratory System,22010-22060,Maine,23.0,2004.0,2004.0,972.0
+,Respiratory System,22010-22060,Maine,23.0,2005.0,2005.0,969.0
+,Respiratory System,22010-22060,Maine,23.0,2006.0,2006.0,995.0
+,Respiratory System,22010-22060,Maine,23.0,2007.0,2007.0,946.0
+,Respiratory System,22010-22060,Maine,23.0,2008.0,2008.0,955.0
+,Respiratory System,22010-22060,Maine,23.0,2009.0,2009.0,937.0
+,Respiratory System,22010-22060,Maine,23.0,2010.0,2010.0,981.0
+,Respiratory System,22010-22060,Maine,23.0,2011.0,2011.0,952.0
+,Respiratory System,22010-22060,Maine,23.0,2012.0,2012.0,986.0
+,Respiratory System,22010-22060,Maine,23.0,2013.0,2013.0,1059.0
+,Respiratory System,22010-22060,Maine,23.0,2014.0,2014.0,939.0
+,Respiratory System,22010-22060,Maine,23.0,2015.0,2015.0,1009.0
+,Respiratory System,22010-22060,Maine,23.0,2016.0,2016.0,948.0
+,Respiratory System,22010-22060,Maine,23.0,2017.0,2017.0,951.0
+,Respiratory System,22010-22060,Maine,23.0,2018.0,2018.0,945.0
+,Respiratory System,22010-22060,Maine,23.0,2019.0,2019.0,919.0
+,Respiratory System,22010-22060,Maine,23.0,2020.0,2020.0,929.0
+,Respiratory System,22010-22060,Maryland,24.0,1999.0,1999.0,2945.0
+,Respiratory System,22010-22060,Maryland,24.0,2000.0,2000.0,3039.0
+,Respiratory System,22010-22060,Maryland,24.0,2001.0,2001.0,2993.0
+,Respiratory System,22010-22060,Maryland,24.0,2002.0,2002.0,3059.0
+,Respiratory System,22010-22060,Maryland,24.0,2003.0,2003.0,3116.0
+,Respiratory System,22010-22060,Maryland,24.0,2004.0,2004.0,2936.0
+,Respiratory System,22010-22060,Maryland,24.0,2005.0,2005.0,3077.0
+,Respiratory System,22010-22060,Maryland,24.0,2006.0,2006.0,2997.0
+,Respiratory System,22010-22060,Maryland,24.0,2007.0,2007.0,2903.0
+,Respiratory System,22010-22060,Maryland,24.0,2008.0,2008.0,2959.0
+,Respiratory System,22010-22060,Maryland,24.0,2009.0,2009.0,2939.0
+,Respiratory System,22010-22060,Maryland,24.0,2010.0,2010.0,2835.0
+,Respiratory System,22010-22060,Maryland,24.0,2011.0,2011.0,2781.0
+,Respiratory System,22010-22060,Maryland,24.0,2012.0,2012.0,2827.0
+,Respiratory System,22010-22060,Maryland,24.0,2013.0,2013.0,2759.0
+,Respiratory System,22010-22060,Maryland,24.0,2014.0,2014.0,2836.0
+,Respiratory System,22010-22060,Maryland,24.0,2015.0,2015.0,2680.0
+,Respiratory System,22010-22060,Maryland,24.0,2016.0,2016.0,2723.0
+,Respiratory System,22010-22060,Maryland,24.0,2017.0,2017.0,2655.0
+,Respiratory System,22010-22060,Maryland,24.0,2018.0,2018.0,2554.0
+,Respiratory System,22010-22060,Maryland,24.0,2019.0,2019.0,2469.0
+,Respiratory System,22010-22060,Maryland,24.0,2020.0,2020.0,2320.0
+,Respiratory System,22010-22060,Massachusetts,25.0,1999.0,1999.0,3708.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2000.0,2000.0,3872.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2001.0,2001.0,3808.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2002.0,2002.0,3882.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2003.0,2003.0,3864.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2004.0,2004.0,3718.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2005.0,2005.0,3749.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2006.0,2006.0,3805.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2007.0,2007.0,3709.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2008.0,2008.0,3663.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2009.0,2009.0,3656.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2010.0,2010.0,3646.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2011.0,2011.0,3518.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2012.0,2012.0,3534.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2013.0,2013.0,3423.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2014.0,2014.0,3390.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2015.0,2015.0,3319.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2016.0,2016.0,3247.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2017.0,2017.0,3159.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2018.0,2018.0,3081.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2019.0,2019.0,3031.0
+,Respiratory System,22010-22060,Massachusetts,25.0,2020.0,2020.0,2835.0
+,Respiratory System,22010-22060,Michigan,26.0,1999.0,1999.0,5599.0
+,Respiratory System,22010-22060,Michigan,26.0,2000.0,2000.0,5736.0
+,Respiratory System,22010-22060,Michigan,26.0,2001.0,2001.0,5813.0
+,Respiratory System,22010-22060,Michigan,26.0,2002.0,2002.0,5872.0
+,Respiratory System,22010-22060,Michigan,26.0,2003.0,2003.0,5887.0
+,Respiratory System,22010-22060,Michigan,26.0,2004.0,2004.0,5985.0
+,Respiratory System,22010-22060,Michigan,26.0,2005.0,2005.0,5990.0
+,Respiratory System,22010-22060,Michigan,26.0,2006.0,2006.0,5994.0
+,Respiratory System,22010-22060,Michigan,26.0,2007.0,2007.0,6100.0
+,Respiratory System,22010-22060,Michigan,26.0,2008.0,2008.0,6074.0
+,Respiratory System,22010-22060,Michigan,26.0,2009.0,2009.0,6164.0
+,Respiratory System,22010-22060,Michigan,26.0,2010.0,2010.0,6080.0
+,Respiratory System,22010-22060,Michigan,26.0,2011.0,2011.0,6042.0
+,Respiratory System,22010-22060,Michigan,26.0,2012.0,2012.0,6014.0
+,Respiratory System,22010-22060,Michigan,26.0,2013.0,2013.0,5944.0
+,Respiratory System,22010-22060,Michigan,26.0,2014.0,2014.0,6108.0
+,Respiratory System,22010-22060,Michigan,26.0,2015.0,2015.0,5900.0
+,Respiratory System,22010-22060,Michigan,26.0,2016.0,2016.0,5721.0
+,Respiratory System,22010-22060,Michigan,26.0,2017.0,2017.0,5688.0
+,Respiratory System,22010-22060,Michigan,26.0,2018.0,2018.0,5647.0
+,Respiratory System,22010-22060,Michigan,26.0,2019.0,2019.0,5495.0
+,Respiratory System,22010-22060,Michigan,26.0,2020.0,2020.0,5397.0
+,Respiratory System,22010-22060,Minnesota,27.0,1999.0,1999.0,2276.0
+,Respiratory System,22010-22060,Minnesota,27.0,2000.0,2000.0,2246.0
+,Respiratory System,22010-22060,Minnesota,27.0,2001.0,2001.0,2344.0
+,Respiratory System,22010-22060,Minnesota,27.0,2002.0,2002.0,2380.0
+,Respiratory System,22010-22060,Minnesota,27.0,2003.0,2003.0,2324.0
+,Respiratory System,22010-22060,Minnesota,27.0,2004.0,2004.0,2408.0
+,Respiratory System,22010-22060,Minnesota,27.0,2005.0,2005.0,2343.0
+,Respiratory System,22010-22060,Minnesota,27.0,2006.0,2006.0,2419.0
+,Respiratory System,22010-22060,Minnesota,27.0,2007.0,2007.0,2489.0
+,Respiratory System,22010-22060,Minnesota,27.0,2008.0,2008.0,2501.0
+,Respiratory System,22010-22060,Minnesota,27.0,2009.0,2009.0,2456.0
+,Respiratory System,22010-22060,Minnesota,27.0,2010.0,2010.0,2434.0
+,Respiratory System,22010-22060,Minnesota,27.0,2011.0,2011.0,2376.0
+,Respiratory System,22010-22060,Minnesota,27.0,2012.0,2012.0,2380.0
+,Respiratory System,22010-22060,Minnesota,27.0,2013.0,2013.0,2431.0
+,Respiratory System,22010-22060,Minnesota,27.0,2014.0,2014.0,2547.0
+,Respiratory System,22010-22060,Minnesota,27.0,2015.0,2015.0,2461.0
+,Respiratory System,22010-22060,Minnesota,27.0,2016.0,2016.0,2401.0
+,Respiratory System,22010-22060,Minnesota,27.0,2017.0,2017.0,2361.0
+,Respiratory System,22010-22060,Minnesota,27.0,2018.0,2018.0,2207.0
+,Respiratory System,22010-22060,Minnesota,27.0,2019.0,2019.0,2230.0
+,Respiratory System,22010-22060,Minnesota,27.0,2020.0,2020.0,2254.0
+,Respiratory System,22010-22060,Mississippi,28.0,1999.0,1999.0,1955.0
+,Respiratory System,22010-22060,Mississippi,28.0,2000.0,2000.0,1977.0
+,Respiratory System,22010-22060,Mississippi,28.0,2001.0,2001.0,1956.0
+,Respiratory System,22010-22060,Mississippi,28.0,2002.0,2002.0,1941.0
+,Respiratory System,22010-22060,Mississippi,28.0,2003.0,2003.0,1954.0
+,Respiratory System,22010-22060,Mississippi,28.0,2004.0,2004.0,2001.0
+,Respiratory System,22010-22060,Mississippi,28.0,2005.0,2005.0,1935.0
+,Respiratory System,22010-22060,Mississippi,28.0,2006.0,2006.0,2061.0
+,Respiratory System,22010-22060,Mississippi,28.0,2007.0,2007.0,1985.0
+,Respiratory System,22010-22060,Mississippi,28.0,2008.0,2008.0,2041.0
+,Respiratory System,22010-22060,Mississippi,28.0,2009.0,2009.0,1985.0
+,Respiratory System,22010-22060,Mississippi,28.0,2010.0,2010.0,2001.0
+,Respiratory System,22010-22060,Mississippi,28.0,2011.0,2011.0,1986.0
+,Respiratory System,22010-22060,Mississippi,28.0,2012.0,2012.0,1967.0
+,Respiratory System,22010-22060,Mississippi,28.0,2013.0,2013.0,2021.0
+,Respiratory System,22010-22060,Mississippi,28.0,2014.0,2014.0,1999.0
+,Respiratory System,22010-22060,Mississippi,28.0,2015.0,2015.0,1953.0
+,Respiratory System,22010-22060,Mississippi,28.0,2016.0,2016.0,1950.0
+,Respiratory System,22010-22060,Mississippi,28.0,2017.0,2017.0,1860.0
+,Respiratory System,22010-22060,Mississippi,28.0,2018.0,2018.0,1888.0
+,Respiratory System,22010-22060,Mississippi,28.0,2019.0,2019.0,1923.0
+,Respiratory System,22010-22060,Mississippi,28.0,2020.0,2020.0,1802.0
+,Respiratory System,22010-22060,Missouri,29.0,1999.0,1999.0,3730.0
+,Respiratory System,22010-22060,Missouri,29.0,2000.0,2000.0,3845.0
+,Respiratory System,22010-22060,Missouri,29.0,2001.0,2001.0,3841.0
+,Respiratory System,22010-22060,Missouri,29.0,2002.0,2002.0,3891.0
+,Respiratory System,22010-22060,Missouri,29.0,2003.0,2003.0,3888.0
+,Respiratory System,22010-22060,Missouri,29.0,2004.0,2004.0,4116.0
+,Respiratory System,22010-22060,Missouri,29.0,2005.0,2005.0,3977.0
+,Respiratory System,22010-22060,Missouri,29.0,2006.0,2006.0,4026.0
+,Respiratory System,22010-22060,Missouri,29.0,2007.0,2007.0,3948.0
+,Respiratory System,22010-22060,Missouri,29.0,2008.0,2008.0,4037.0
+,Respiratory System,22010-22060,Missouri,29.0,2009.0,2009.0,3957.0
+,Respiratory System,22010-22060,Missouri,29.0,2010.0,2010.0,3988.0
+,Respiratory System,22010-22060,Missouri,29.0,2011.0,2011.0,3912.0
+,Respiratory System,22010-22060,Missouri,29.0,2012.0,2012.0,4079.0
+,Respiratory System,22010-22060,Missouri,29.0,2013.0,2013.0,4094.0
+,Respiratory System,22010-22060,Missouri,29.0,2014.0,2014.0,4099.0
+,Respiratory System,22010-22060,Missouri,29.0,2015.0,2015.0,3982.0
+,Respiratory System,22010-22060,Missouri,29.0,2016.0,2016.0,3809.0
+,Respiratory System,22010-22060,Missouri,29.0,2017.0,2017.0,3792.0
+,Respiratory System,22010-22060,Missouri,29.0,2018.0,2018.0,3657.0
+,Respiratory System,22010-22060,Missouri,29.0,2019.0,2019.0,3580.0
+,Respiratory System,22010-22060,Missouri,29.0,2020.0,2020.0,3605.0
+,Respiratory System,22010-22060,Montana,30.0,1999.0,1999.0,513.0
+,Respiratory System,22010-22060,Montana,30.0,2000.0,2000.0,499.0
+,Respiratory System,22010-22060,Montana,30.0,2001.0,2001.0,593.0
+,Respiratory System,22010-22060,Montana,30.0,2002.0,2002.0,539.0
+,Respiratory System,22010-22060,Montana,30.0,2003.0,2003.0,549.0
+,Respiratory System,22010-22060,Montana,30.0,2004.0,2004.0,515.0
+,Respiratory System,22010-22060,Montana,30.0,2005.0,2005.0,560.0
+,Respiratory System,22010-22060,Montana,30.0,2006.0,2006.0,528.0
+,Respiratory System,22010-22060,Montana,30.0,2007.0,2007.0,582.0
+,Respiratory System,22010-22060,Montana,30.0,2008.0,2008.0,553.0
+,Respiratory System,22010-22060,Montana,30.0,2009.0,2009.0,493.0
+,Respiratory System,22010-22060,Montana,30.0,2010.0,2010.0,495.0
+,Respiratory System,22010-22060,Montana,30.0,2011.0,2011.0,601.0
+,Respiratory System,22010-22060,Montana,30.0,2012.0,2012.0,513.0
+,Respiratory System,22010-22060,Montana,30.0,2013.0,2013.0,507.0
+,Respiratory System,22010-22060,Montana,30.0,2014.0,2014.0,570.0
+,Respiratory System,22010-22060,Montana,30.0,2015.0,2015.0,552.0
+,Respiratory System,22010-22060,Montana,30.0,2016.0,2016.0,485.0
+,Respiratory System,22010-22060,Montana,30.0,2017.0,2017.0,481.0
+,Respiratory System,22010-22060,Montana,30.0,2018.0,2018.0,484.0
+,Respiratory System,22010-22060,Montana,30.0,2019.0,2019.0,422.0
+,Respiratory System,22010-22060,Montana,30.0,2020.0,2020.0,450.0
+,Respiratory System,22010-22060,Nebraska,31.0,1999.0,1999.0,932.0
+,Respiratory System,22010-22060,Nebraska,31.0,2000.0,2000.0,882.0
+,Respiratory System,22010-22060,Nebraska,31.0,2001.0,2001.0,970.0
+,Respiratory System,22010-22060,Nebraska,31.0,2002.0,2002.0,906.0
+,Respiratory System,22010-22060,Nebraska,31.0,2003.0,2003.0,900.0
+,Respiratory System,22010-22060,Nebraska,31.0,2004.0,2004.0,900.0
+,Respiratory System,22010-22060,Nebraska,31.0,2005.0,2005.0,928.0
+,Respiratory System,22010-22060,Nebraska,31.0,2006.0,2006.0,935.0
+,Respiratory System,22010-22060,Nebraska,31.0,2007.0,2007.0,966.0
+,Respiratory System,22010-22060,Nebraska,31.0,2008.0,2008.0,915.0
+,Respiratory System,22010-22060,Nebraska,31.0,2009.0,2009.0,904.0
+,Respiratory System,22010-22060,Nebraska,31.0,2010.0,2010.0,945.0
+,Respiratory System,22010-22060,Nebraska,31.0,2011.0,2011.0,888.0
+,Respiratory System,22010-22060,Nebraska,31.0,2012.0,2012.0,928.0
+,Respiratory System,22010-22060,Nebraska,31.0,2013.0,2013.0,942.0
+,Respiratory System,22010-22060,Nebraska,31.0,2014.0,2014.0,925.0
+,Respiratory System,22010-22060,Nebraska,31.0,2015.0,2015.0,941.0
+,Respiratory System,22010-22060,Nebraska,31.0,2016.0,2016.0,874.0
+,Respiratory System,22010-22060,Nebraska,31.0,2017.0,2017.0,850.0
+,Respiratory System,22010-22060,Nebraska,31.0,2018.0,2018.0,809.0
+,Respiratory System,22010-22060,Nebraska,31.0,2019.0,2019.0,813.0
+,Respiratory System,22010-22060,Nebraska,31.0,2020.0,2020.0,741.0
+,Respiratory System,22010-22060,Nevada,32.0,1999.0,1999.0,1156.0
+,Respiratory System,22010-22060,Nevada,32.0,2000.0,2000.0,1220.0
+,Respiratory System,22010-22060,Nevada,32.0,2001.0,2001.0,1226.0
+,Respiratory System,22010-22060,Nevada,32.0,2002.0,2002.0,1186.0
+,Respiratory System,22010-22060,Nevada,32.0,2003.0,2003.0,1344.0
+,Respiratory System,22010-22060,Nevada,32.0,2004.0,2004.0,1261.0
+,Respiratory System,22010-22060,Nevada,32.0,2005.0,2005.0,1320.0
+,Respiratory System,22010-22060,Nevada,32.0,2006.0,2006.0,1344.0
+,Respiratory System,22010-22060,Nevada,32.0,2007.0,2007.0,1329.0
+,Respiratory System,22010-22060,Nevada,32.0,2008.0,2008.0,1369.0
+,Respiratory System,22010-22060,Nevada,32.0,2009.0,2009.0,1355.0
+,Respiratory System,22010-22060,Nevada,32.0,2010.0,2010.0,1279.0
+,Respiratory System,22010-22060,Nevada,32.0,2011.0,2011.0,1354.0
+,Respiratory System,22010-22060,Nevada,32.0,2012.0,2012.0,1355.0
+,Respiratory System,22010-22060,Nevada,32.0,2013.0,2013.0,1354.0
+,Respiratory System,22010-22060,Nevada,32.0,2014.0,2014.0,1439.0
+,Respiratory System,22010-22060,Nevada,32.0,2015.0,2015.0,1367.0
+,Respiratory System,22010-22060,Nevada,32.0,2016.0,2016.0,1299.0
+,Respiratory System,22010-22060,Nevada,32.0,2017.0,2017.0,1341.0
+,Respiratory System,22010-22060,Nevada,32.0,2018.0,2018.0,1227.0
+,Respiratory System,22010-22060,Nevada,32.0,2019.0,2019.0,1298.0
+,Respiratory System,22010-22060,Nevada,32.0,2020.0,2020.0,1279.0
+,Respiratory System,22010-22060,New Hampshire,33.0,1999.0,1999.0,687.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2000.0,2000.0,682.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2001.0,2001.0,669.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2002.0,2002.0,716.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2003.0,2003.0,696.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2004.0,2004.0,742.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2005.0,2005.0,751.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2006.0,2006.0,732.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2007.0,2007.0,767.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2008.0,2008.0,697.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2009.0,2009.0,770.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2010.0,2010.0,713.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2011.0,2011.0,809.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2012.0,2012.0,768.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2013.0,2013.0,710.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2014.0,2014.0,754.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2015.0,2015.0,775.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2016.0,2016.0,819.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2017.0,2017.0,719.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2018.0,2018.0,705.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2019.0,2019.0,680.0
+,Respiratory System,22010-22060,New Hampshire,33.0,2020.0,2020.0,669.0
+,Respiratory System,22010-22060,New Jersey,34.0,1999.0,1999.0,4756.0
+,Respiratory System,22010-22060,New Jersey,34.0,2000.0,2000.0,4800.0
+,Respiratory System,22010-22060,New Jersey,34.0,2001.0,2001.0,4854.0
+,Respiratory System,22010-22060,New Jersey,34.0,2002.0,2002.0,4700.0
+,Respiratory System,22010-22060,New Jersey,34.0,2003.0,2003.0,4792.0
+,Respiratory System,22010-22060,New Jersey,34.0,2004.0,2004.0,4630.0
+,Respiratory System,22010-22060,New Jersey,34.0,2005.0,2005.0,4605.0
+,Respiratory System,22010-22060,New Jersey,34.0,2006.0,2006.0,4549.0
+,Respiratory System,22010-22060,New Jersey,34.0,2007.0,2007.0,4553.0
+,Respiratory System,22010-22060,New Jersey,34.0,2008.0,2008.0,4416.0
+,Respiratory System,22010-22060,New Jersey,34.0,2009.0,2009.0,4284.0
+,Respiratory System,22010-22060,New Jersey,34.0,2010.0,2010.0,4305.0
+,Respiratory System,22010-22060,New Jersey,34.0,2011.0,2011.0,4264.0
+,Respiratory System,22010-22060,New Jersey,34.0,2012.0,2012.0,4155.0
+,Respiratory System,22010-22060,New Jersey,34.0,2013.0,2013.0,4157.0
+,Respiratory System,22010-22060,New Jersey,34.0,2014.0,2014.0,4068.0
+,Respiratory System,22010-22060,New Jersey,34.0,2015.0,2015.0,3906.0
+,Respiratory System,22010-22060,New Jersey,34.0,2016.0,2016.0,3820.0
+,Respiratory System,22010-22060,New Jersey,34.0,2017.0,2017.0,3663.0
+,Respiratory System,22010-22060,New Jersey,34.0,2018.0,2018.0,3593.0
+,Respiratory System,22010-22060,New Jersey,34.0,2019.0,2019.0,3459.0
+,Respiratory System,22010-22060,New Jersey,34.0,2020.0,2020.0,3242.0
+,Respiratory System,22010-22060,New Mexico,35.0,1999.0,1999.0,645.0
+,Respiratory System,22010-22060,New Mexico,35.0,2000.0,2000.0,685.0
+,Respiratory System,22010-22060,New Mexico,35.0,2001.0,2001.0,687.0
+,Respiratory System,22010-22060,New Mexico,35.0,2002.0,2002.0,722.0
+,Respiratory System,22010-22060,New Mexico,35.0,2003.0,2003.0,749.0
+,Respiratory System,22010-22060,New Mexico,35.0,2004.0,2004.0,709.0
+,Respiratory System,22010-22060,New Mexico,35.0,2005.0,2005.0,730.0
+,Respiratory System,22010-22060,New Mexico,35.0,2006.0,2006.0,713.0
+,Respiratory System,22010-22060,New Mexico,35.0,2007.0,2007.0,794.0
+,Respiratory System,22010-22060,New Mexico,35.0,2008.0,2008.0,803.0
+,Respiratory System,22010-22060,New Mexico,35.0,2009.0,2009.0,721.0
+,Respiratory System,22010-22060,New Mexico,35.0,2010.0,2010.0,792.0
+,Respiratory System,22010-22060,New Mexico,35.0,2011.0,2011.0,727.0
+,Respiratory System,22010-22060,New Mexico,35.0,2012.0,2012.0,788.0
+,Respiratory System,22010-22060,New Mexico,35.0,2013.0,2013.0,765.0
+,Respiratory System,22010-22060,New Mexico,35.0,2014.0,2014.0,763.0
+,Respiratory System,22010-22060,New Mexico,35.0,2015.0,2015.0,778.0
+,Respiratory System,22010-22060,New Mexico,35.0,2016.0,2016.0,730.0
+,Respiratory System,22010-22060,New Mexico,35.0,2017.0,2017.0,702.0
+,Respiratory System,22010-22060,New Mexico,35.0,2018.0,2018.0,657.0
+,Respiratory System,22010-22060,New Mexico,35.0,2019.0,2019.0,666.0
+,Respiratory System,22010-22060,New Mexico,35.0,2020.0,2020.0,638.0
+,Respiratory System,22010-22060,New York,36.0,1999.0,1999.0,9896.0
+,Respiratory System,22010-22060,New York,36.0,2000.0,2000.0,9913.0
+,Respiratory System,22010-22060,New York,36.0,2001.0,2001.0,9810.0
+,Respiratory System,22010-22060,New York,36.0,2002.0,2002.0,9954.0
+,Respiratory System,22010-22060,New York,36.0,2003.0,2003.0,9761.0
+,Respiratory System,22010-22060,New York,36.0,2004.0,2004.0,9691.0
+,Respiratory System,22010-22060,New York,36.0,2005.0,2005.0,9611.0
+,Respiratory System,22010-22060,New York,36.0,2006.0,2006.0,9467.0
+,Respiratory System,22010-22060,New York,36.0,2007.0,2007.0,9634.0
+,Respiratory System,22010-22060,New York,36.0,2008.0,2008.0,9516.0
+,Respiratory System,22010-22060,New York,36.0,2009.0,2009.0,9311.0
+,Respiratory System,22010-22060,New York,36.0,2010.0,2010.0,9401.0
+,Respiratory System,22010-22060,New York,36.0,2011.0,2011.0,9339.0
+,Respiratory System,22010-22060,New York,36.0,2012.0,2012.0,9485.0
+,Respiratory System,22010-22060,New York,36.0,2013.0,2013.0,9389.0
+,Respiratory System,22010-22060,New York,36.0,2014.0,2014.0,8852.0
+,Respiratory System,22010-22060,New York,36.0,2015.0,2015.0,8816.0
+,Respiratory System,22010-22060,New York,36.0,2016.0,2016.0,8410.0
+,Respiratory System,22010-22060,New York,36.0,2017.0,2017.0,8067.0
+,Respiratory System,22010-22060,New York,36.0,2018.0,2018.0,7994.0
+,Respiratory System,22010-22060,New York,36.0,2019.0,2019.0,7611.0
+,Respiratory System,22010-22060,New York,36.0,2020.0,2020.0,7131.0
+,Respiratory System,22010-22060,North Carolina,37.0,1999.0,1999.0,4837.0
+,Respiratory System,22010-22060,North Carolina,37.0,2000.0,2000.0,5023.0
+,Respiratory System,22010-22060,North Carolina,37.0,2001.0,2001.0,5036.0
+,Respiratory System,22010-22060,North Carolina,37.0,2002.0,2002.0,5014.0
+,Respiratory System,22010-22060,North Carolina,37.0,2003.0,2003.0,4979.0
+,Respiratory System,22010-22060,North Carolina,37.0,2004.0,2004.0,5180.0
+,Respiratory System,22010-22060,North Carolina,37.0,2005.0,2005.0,5425.0
+,Respiratory System,22010-22060,North Carolina,37.0,2006.0,2006.0,5502.0
+,Respiratory System,22010-22060,North Carolina,37.0,2007.0,2007.0,5498.0
+,Respiratory System,22010-22060,North Carolina,37.0,2008.0,2008.0,5528.0
+,Respiratory System,22010-22060,North Carolina,37.0,2009.0,2009.0,5545.0
+,Respiratory System,22010-22060,North Carolina,37.0,2010.0,2010.0,5668.0
+,Respiratory System,22010-22060,North Carolina,37.0,2011.0,2011.0,5683.0
+,Respiratory System,22010-22060,North Carolina,37.0,2012.0,2012.0,5594.0
+,Respiratory System,22010-22060,North Carolina,37.0,2013.0,2013.0,5673.0
+,Respiratory System,22010-22060,North Carolina,37.0,2014.0,2014.0,5774.0
+,Respiratory System,22010-22060,North Carolina,37.0,2015.0,2015.0,5649.0
+,Respiratory System,22010-22060,North Carolina,37.0,2016.0,2016.0,5732.0
+,Respiratory System,22010-22060,North Carolina,37.0,2017.0,2017.0,5457.0
+,Respiratory System,22010-22060,North Carolina,37.0,2018.0,2018.0,5334.0
+,Respiratory System,22010-22060,North Carolina,37.0,2019.0,2019.0,5256.0
+,Respiratory System,22010-22060,North Carolina,37.0,2020.0,2020.0,5207.0
+,Respiratory System,22010-22060,North Dakota,38.0,1999.0,1999.0,310.0
+,Respiratory System,22010-22060,North Dakota,38.0,2000.0,2000.0,328.0
+,Respiratory System,22010-22060,North Dakota,38.0,2001.0,2001.0,358.0
+,Respiratory System,22010-22060,North Dakota,38.0,2002.0,2002.0,314.0
+,Respiratory System,22010-22060,North Dakota,38.0,2003.0,2003.0,332.0
+,Respiratory System,22010-22060,North Dakota,38.0,2004.0,2004.0,364.0
+,Respiratory System,22010-22060,North Dakota,38.0,2005.0,2005.0,316.0
+,Respiratory System,22010-22060,North Dakota,38.0,2006.0,2006.0,359.0
+,Respiratory System,22010-22060,North Dakota,38.0,2007.0,2007.0,312.0
+,Respiratory System,22010-22060,North Dakota,38.0,2008.0,2008.0,347.0
+,Respiratory System,22010-22060,North Dakota,38.0,2009.0,2009.0,320.0
+,Respiratory System,22010-22060,North Dakota,38.0,2010.0,2010.0,309.0
+,Respiratory System,22010-22060,North Dakota,38.0,2011.0,2011.0,344.0
+,Respiratory System,22010-22060,North Dakota,38.0,2012.0,2012.0,355.0
+,Respiratory System,22010-22060,North Dakota,38.0,2013.0,2013.0,357.0
+,Respiratory System,22010-22060,North Dakota,38.0,2014.0,2014.0,332.0
+,Respiratory System,22010-22060,North Dakota,38.0,2015.0,2015.0,302.0
+,Respiratory System,22010-22060,North Dakota,38.0,2016.0,2016.0,309.0
+,Respiratory System,22010-22060,North Dakota,38.0,2017.0,2017.0,317.0
+,Respiratory System,22010-22060,North Dakota,38.0,2018.0,2018.0,301.0
+,Respiratory System,22010-22060,North Dakota,38.0,2019.0,2019.0,331.0
+,Respiratory System,22010-22060,North Dakota,38.0,2020.0,2020.0,293.0
+,Respiratory System,22010-22060,Ohio,39.0,1999.0,1999.0,7372.0
+,Respiratory System,22010-22060,Ohio,39.0,2000.0,2000.0,7472.0
+,Respiratory System,22010-22060,Ohio,39.0,2001.0,2001.0,7398.0
+,Respiratory System,22010-22060,Ohio,39.0,2002.0,2002.0,7701.0
+,Respiratory System,22010-22060,Ohio,39.0,2003.0,2003.0,7619.0
+,Respiratory System,22010-22060,Ohio,39.0,2004.0,2004.0,7630.0
+,Respiratory System,22010-22060,Ohio,39.0,2005.0,2005.0,7607.0
+,Respiratory System,22010-22060,Ohio,39.0,2006.0,2006.0,7670.0
+,Respiratory System,22010-22060,Ohio,39.0,2007.0,2007.0,7689.0
+,Respiratory System,22010-22060,Ohio,39.0,2008.0,2008.0,7554.0
+,Respiratory System,22010-22060,Ohio,39.0,2009.0,2009.0,7716.0
+,Respiratory System,22010-22060,Ohio,39.0,2010.0,2010.0,7553.0
+,Respiratory System,22010-22060,Ohio,39.0,2011.0,2011.0,7618.0
+,Respiratory System,22010-22060,Ohio,39.0,2012.0,2012.0,7736.0
+,Respiratory System,22010-22060,Ohio,39.0,2013.0,2013.0,7452.0
+,Respiratory System,22010-22060,Ohio,39.0,2014.0,2014.0,7378.0
+,Respiratory System,22010-22060,Ohio,39.0,2015.0,2015.0,7418.0
+,Respiratory System,22010-22060,Ohio,39.0,2016.0,2016.0,7327.0
+,Respiratory System,22010-22060,Ohio,39.0,2017.0,2017.0,7016.0
+,Respiratory System,22010-22060,Ohio,39.0,2018.0,2018.0,6884.0
+,Respiratory System,22010-22060,Ohio,39.0,2019.0,2019.0,6656.0
+,Respiratory System,22010-22060,Ohio,39.0,2020.0,2020.0,6464.0
+,Respiratory System,22010-22060,Oklahoma,40.0,1999.0,1999.0,2284.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2000.0,2000.0,2372.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2001.0,2001.0,2372.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2002.0,2002.0,2456.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2003.0,2003.0,2364.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2004.0,2004.0,2416.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2005.0,2005.0,2434.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2006.0,2006.0,2493.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2007.0,2007.0,2551.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2008.0,2008.0,2442.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2009.0,2009.0,2498.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2010.0,2010.0,2452.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2011.0,2011.0,2560.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2012.0,2012.0,2434.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2013.0,2013.0,2534.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2014.0,2014.0,2431.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2015.0,2015.0,2539.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2016.0,2016.0,2372.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2017.0,2017.0,2269.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2018.0,2018.0,2335.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2019.0,2019.0,2346.0
+,Respiratory System,22010-22060,Oklahoma,40.0,2020.0,2020.0,2220.0
+,Respiratory System,22010-22060,Oregon,41.0,1999.0,1999.0,1928.0
+,Respiratory System,22010-22060,Oregon,41.0,2000.0,2000.0,2099.0
+,Respiratory System,22010-22060,Oregon,41.0,2001.0,2001.0,2005.0
+,Respiratory System,22010-22060,Oregon,41.0,2002.0,2002.0,2110.0
+,Respiratory System,22010-22060,Oregon,41.0,2003.0,2003.0,2115.0
+,Respiratory System,22010-22060,Oregon,41.0,2004.0,2004.0,2114.0
+,Respiratory System,22010-22060,Oregon,41.0,2005.0,2005.0,2149.0
+,Respiratory System,22010-22060,Oregon,41.0,2006.0,2006.0,2152.0
+,Respiratory System,22010-22060,Oregon,41.0,2007.0,2007.0,2066.0
+,Respiratory System,22010-22060,Oregon,41.0,2008.0,2008.0,2123.0
+,Respiratory System,22010-22060,Oregon,41.0,2009.0,2009.0,2118.0
+,Respiratory System,22010-22060,Oregon,41.0,2010.0,2010.0,2104.0
+,Respiratory System,22010-22060,Oregon,41.0,2011.0,2011.0,2107.0
+,Respiratory System,22010-22060,Oregon,41.0,2012.0,2012.0,2145.0
+,Respiratory System,22010-22060,Oregon,41.0,2013.0,2013.0,2057.0
+,Respiratory System,22010-22060,Oregon,41.0,2014.0,2014.0,2032.0
+,Respiratory System,22010-22060,Oregon,41.0,2015.0,2015.0,1997.0
+,Respiratory System,22010-22060,Oregon,41.0,2016.0,2016.0,1952.0
+,Respiratory System,22010-22060,Oregon,41.0,2017.0,2017.0,1902.0
+,Respiratory System,22010-22060,Oregon,41.0,2018.0,2018.0,1861.0
+,Respiratory System,22010-22060,Oregon,41.0,2019.0,2019.0,1835.0
+,Respiratory System,22010-22060,Oregon,41.0,2020.0,2020.0,1848.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,1999.0,1999.0,8189.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2000.0,2000.0,8292.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2001.0,2001.0,8272.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2002.0,2002.0,8353.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2003.0,2003.0,8186.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2004.0,2004.0,8202.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2005.0,2005.0,8385.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2006.0,2006.0,8189.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2007.0,2007.0,8182.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2008.0,2008.0,8193.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2009.0,2009.0,7976.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2010.0,2010.0,8004.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2011.0,2011.0,7915.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2012.0,2012.0,7930.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2013.0,2013.0,7756.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2014.0,2014.0,7653.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2015.0,2015.0,7629.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2016.0,2016.0,7384.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2017.0,2017.0,7139.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2018.0,2018.0,6988.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2019.0,2019.0,6799.0
+,Respiratory System,22010-22060,Pennsylvania,42.0,2020.0,2020.0,6508.0
+,Respiratory System,22010-22060,Rhode Island,44.0,1999.0,1999.0,716.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2000.0,2000.0,703.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2001.0,2001.0,670.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2002.0,2002.0,717.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2003.0,2003.0,653.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2004.0,2004.0,690.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2005.0,2005.0,629.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2006.0,2006.0,620.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2007.0,2007.0,681.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2008.0,2008.0,711.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2009.0,2009.0,630.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2010.0,2010.0,634.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2011.0,2011.0,618.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2012.0,2012.0,644.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2013.0,2013.0,676.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2014.0,2014.0,650.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2015.0,2015.0,654.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2016.0,2016.0,584.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2017.0,2017.0,570.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2018.0,2018.0,535.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2019.0,2019.0,550.0
+,Respiratory System,22010-22060,Rhode Island,44.0,2020.0,2020.0,522.0
+,Respiratory System,22010-22060,South Carolina,45.0,1999.0,1999.0,2412.0
+,Respiratory System,22010-22060,South Carolina,45.0,2000.0,2000.0,2495.0
+,Respiratory System,22010-22060,South Carolina,45.0,2001.0,2001.0,2612.0
+,Respiratory System,22010-22060,South Carolina,45.0,2002.0,2002.0,2563.0
+,Respiratory System,22010-22060,South Carolina,45.0,2003.0,2003.0,2711.0
+,Respiratory System,22010-22060,South Carolina,45.0,2004.0,2004.0,2573.0
+,Respiratory System,22010-22060,South Carolina,45.0,2005.0,2005.0,2790.0
+,Respiratory System,22010-22060,South Carolina,45.0,2006.0,2006.0,2785.0
+,Respiratory System,22010-22060,South Carolina,45.0,2007.0,2007.0,2773.0
+,Respiratory System,22010-22060,South Carolina,45.0,2008.0,2008.0,2861.0
+,Respiratory System,22010-22060,South Carolina,45.0,2009.0,2009.0,2841.0
+,Respiratory System,22010-22060,South Carolina,45.0,2010.0,2010.0,2820.0
+,Respiratory System,22010-22060,South Carolina,45.0,2011.0,2011.0,2871.0
+,Respiratory System,22010-22060,South Carolina,45.0,2012.0,2012.0,2947.0
+,Respiratory System,22010-22060,South Carolina,45.0,2013.0,2013.0,2924.0
+,Respiratory System,22010-22060,South Carolina,45.0,2014.0,2014.0,2854.0
+,Respiratory System,22010-22060,South Carolina,45.0,2015.0,2015.0,2854.0
+,Respiratory System,22010-22060,South Carolina,45.0,2016.0,2016.0,2803.0
+,Respiratory System,22010-22060,South Carolina,45.0,2017.0,2017.0,2816.0
+,Respiratory System,22010-22060,South Carolina,45.0,2018.0,2018.0,2760.0
+,Respiratory System,22010-22060,South Carolina,45.0,2019.0,2019.0,2761.0
+,Respiratory System,22010-22060,South Carolina,45.0,2020.0,2020.0,2787.0
+,Respiratory System,22010-22060,South Dakota,46.0,1999.0,1999.0,414.0
+,Respiratory System,22010-22060,South Dakota,46.0,2000.0,2000.0,398.0
+,Respiratory System,22010-22060,South Dakota,46.0,2001.0,2001.0,420.0
+,Respiratory System,22010-22060,South Dakota,46.0,2002.0,2002.0,413.0
+,Respiratory System,22010-22060,South Dakota,46.0,2003.0,2003.0,423.0
+,Respiratory System,22010-22060,South Dakota,46.0,2004.0,2004.0,428.0
+,Respiratory System,22010-22060,South Dakota,46.0,2005.0,2005.0,479.0
+,Respiratory System,22010-22060,South Dakota,46.0,2006.0,2006.0,445.0
+,Respiratory System,22010-22060,South Dakota,46.0,2007.0,2007.0,444.0
+,Respiratory System,22010-22060,South Dakota,46.0,2008.0,2008.0,463.0
+,Respiratory System,22010-22060,South Dakota,46.0,2009.0,2009.0,391.0
+,Respiratory System,22010-22060,South Dakota,46.0,2010.0,2010.0,441.0
+,Respiratory System,22010-22060,South Dakota,46.0,2011.0,2011.0,467.0
+,Respiratory System,22010-22060,South Dakota,46.0,2012.0,2012.0,444.0
+,Respiratory System,22010-22060,South Dakota,46.0,2013.0,2013.0,421.0
+,Respiratory System,22010-22060,South Dakota,46.0,2014.0,2014.0,453.0
+,Respiratory System,22010-22060,South Dakota,46.0,2015.0,2015.0,436.0
+,Respiratory System,22010-22060,South Dakota,46.0,2016.0,2016.0,427.0
+,Respiratory System,22010-22060,South Dakota,46.0,2017.0,2017.0,433.0
+,Respiratory System,22010-22060,South Dakota,46.0,2018.0,2018.0,404.0
+,Respiratory System,22010-22060,South Dakota,46.0,2019.0,2019.0,438.0
+,Respiratory System,22010-22060,South Dakota,46.0,2020.0,2020.0,388.0
+,Respiratory System,22010-22060,Tennessee,47.0,1999.0,1999.0,3921.0
+,Respiratory System,22010-22060,Tennessee,47.0,2000.0,2000.0,4045.0
+,Respiratory System,22010-22060,Tennessee,47.0,2001.0,2001.0,4113.0
+,Respiratory System,22010-22060,Tennessee,47.0,2002.0,2002.0,4177.0
+,Respiratory System,22010-22060,Tennessee,47.0,2003.0,2003.0,4167.0
+,Respiratory System,22010-22060,Tennessee,47.0,2004.0,2004.0,4298.0
+,Respiratory System,22010-22060,Tennessee,47.0,2005.0,2005.0,4489.0
+,Respiratory System,22010-22060,Tennessee,47.0,2006.0,2006.0,4502.0
+,Respiratory System,22010-22060,Tennessee,47.0,2007.0,2007.0,4447.0
+,Respiratory System,22010-22060,Tennessee,47.0,2008.0,2008.0,4416.0
+,Respiratory System,22010-22060,Tennessee,47.0,2009.0,2009.0,4508.0
+,Respiratory System,22010-22060,Tennessee,47.0,2010.0,2010.0,4534.0
+,Respiratory System,22010-22060,Tennessee,47.0,2011.0,2011.0,4440.0
+,Respiratory System,22010-22060,Tennessee,47.0,2012.0,2012.0,4474.0
+,Respiratory System,22010-22060,Tennessee,47.0,2013.0,2013.0,4441.0
+,Respiratory System,22010-22060,Tennessee,47.0,2014.0,2014.0,4551.0
+,Respiratory System,22010-22060,Tennessee,47.0,2015.0,2015.0,4475.0
+,Respiratory System,22010-22060,Tennessee,47.0,2016.0,2016.0,4479.0
+,Respiratory System,22010-22060,Tennessee,47.0,2017.0,2017.0,4135.0
+,Respiratory System,22010-22060,Tennessee,47.0,2018.0,2018.0,4064.0
+,Respiratory System,22010-22060,Tennessee,47.0,2019.0,2019.0,4188.0
+,Respiratory System,22010-22060,Tennessee,47.0,2020.0,2020.0,4097.0
+,Respiratory System,22010-22060,Texas,48.0,1999.0,1999.0,9471.0
+,Respiratory System,22010-22060,Texas,48.0,2000.0,2000.0,9796.0
+,Respiratory System,22010-22060,Texas,48.0,2001.0,2001.0,9678.0
+,Respiratory System,22010-22060,Texas,48.0,2002.0,2002.0,10093.0
+,Respiratory System,22010-22060,Texas,48.0,2003.0,2003.0,10029.0
+,Respiratory System,22010-22060,Texas,48.0,2004.0,2004.0,10011.0
+,Respiratory System,22010-22060,Texas,48.0,2005.0,2005.0,9985.0
+,Respiratory System,22010-22060,Texas,48.0,2006.0,2006.0,10021.0
+,Respiratory System,22010-22060,Texas,48.0,2007.0,2007.0,9892.0
+,Respiratory System,22010-22060,Texas,48.0,2008.0,2008.0,9959.0
+,Respiratory System,22010-22060,Texas,48.0,2009.0,2009.0,9871.0
+,Respiratory System,22010-22060,Texas,48.0,2010.0,2010.0,9848.0
+,Respiratory System,22010-22060,Texas,48.0,2011.0,2011.0,10034.0
+,Respiratory System,22010-22060,Texas,48.0,2012.0,2012.0,10001.0
+,Respiratory System,22010-22060,Texas,48.0,2013.0,2013.0,9775.0
+,Respiratory System,22010-22060,Texas,48.0,2014.0,2014.0,9862.0
+,Respiratory System,22010-22060,Texas,48.0,2015.0,2015.0,9487.0
+,Respiratory System,22010-22060,Texas,48.0,2016.0,2016.0,9514.0
+,Respiratory System,22010-22060,Texas,48.0,2017.0,2017.0,9408.0
+,Respiratory System,22010-22060,Texas,48.0,2018.0,2018.0,9053.0
+,Respiratory System,22010-22060,Texas,48.0,2019.0,2019.0,9080.0
+,Respiratory System,22010-22060,Texas,48.0,2020.0,2020.0,9143.0
+,Respiratory System,22010-22060,Utah,49.0,1999.0,1999.0,413.0
+,Respiratory System,22010-22060,Utah,49.0,2000.0,2000.0,426.0
+,Respiratory System,22010-22060,Utah,49.0,2001.0,2001.0,381.0
+,Respiratory System,22010-22060,Utah,49.0,2002.0,2002.0,412.0
+,Respiratory System,22010-22060,Utah,49.0,2003.0,2003.0,428.0
+,Respiratory System,22010-22060,Utah,49.0,2004.0,2004.0,464.0
+,Respiratory System,22010-22060,Utah,49.0,2005.0,2005.0,438.0
+,Respiratory System,22010-22060,Utah,49.0,2006.0,2006.0,460.0
+,Respiratory System,22010-22060,Utah,49.0,2007.0,2007.0,448.0
+,Respiratory System,22010-22060,Utah,49.0,2008.0,2008.0,383.0
+,Respiratory System,22010-22060,Utah,49.0,2009.0,2009.0,432.0
+,Respiratory System,22010-22060,Utah,49.0,2010.0,2010.0,475.0
+,Respiratory System,22010-22060,Utah,49.0,2011.0,2011.0,448.0
+,Respiratory System,22010-22060,Utah,49.0,2012.0,2012.0,461.0
+,Respiratory System,22010-22060,Utah,49.0,2013.0,2013.0,448.0
+,Respiratory System,22010-22060,Utah,49.0,2014.0,2014.0,463.0
+,Respiratory System,22010-22060,Utah,49.0,2015.0,2015.0,493.0
+,Respiratory System,22010-22060,Utah,49.0,2016.0,2016.0,490.0
+,Respiratory System,22010-22060,Utah,49.0,2017.0,2017.0,472.0
+,Respiratory System,22010-22060,Utah,49.0,2018.0,2018.0,456.0
+,Respiratory System,22010-22060,Utah,49.0,2019.0,2019.0,455.0
+,Respiratory System,22010-22060,Utah,49.0,2020.0,2020.0,463.0
+,Respiratory System,22010-22060,Vermont,50.0,1999.0,1999.0,350.0
+,Respiratory System,22010-22060,Vermont,50.0,2000.0,2000.0,341.0
+,Respiratory System,22010-22060,Vermont,50.0,2001.0,2001.0,352.0
+,Respiratory System,22010-22060,Vermont,50.0,2002.0,2002.0,327.0
+,Respiratory System,22010-22060,Vermont,50.0,2003.0,2003.0,332.0
+,Respiratory System,22010-22060,Vermont,50.0,2004.0,2004.0,335.0
+,Respiratory System,22010-22060,Vermont,50.0,2005.0,2005.0,347.0
+,Respiratory System,22010-22060,Vermont,50.0,2006.0,2006.0,353.0
+,Respiratory System,22010-22060,Vermont,50.0,2007.0,2007.0,409.0
+,Respiratory System,22010-22060,Vermont,50.0,2008.0,2008.0,390.0
+,Respiratory System,22010-22060,Vermont,50.0,2009.0,2009.0,382.0
+,Respiratory System,22010-22060,Vermont,50.0,2010.0,2010.0,415.0
+,Respiratory System,22010-22060,Vermont,50.0,2011.0,2011.0,387.0
+,Respiratory System,22010-22060,Vermont,50.0,2012.0,2012.0,361.0
+,Respiratory System,22010-22060,Vermont,50.0,2013.0,2013.0,359.0
+,Respiratory System,22010-22060,Vermont,50.0,2014.0,2014.0,406.0
+,Respiratory System,22010-22060,Vermont,50.0,2015.0,2015.0,360.0
+,Respiratory System,22010-22060,Vermont,50.0,2016.0,2016.0,379.0
+,Respiratory System,22010-22060,Vermont,50.0,2017.0,2017.0,363.0
+,Respiratory System,22010-22060,Vermont,50.0,2018.0,2018.0,337.0
+,Respiratory System,22010-22060,Vermont,50.0,2019.0,2019.0,318.0
+,Respiratory System,22010-22060,Vermont,50.0,2020.0,2020.0,315.0
+,Respiratory System,22010-22060,Virginia,51.0,1999.0,1999.0,3897.0
+,Respiratory System,22010-22060,Virginia,51.0,2000.0,2000.0,3976.0
+,Respiratory System,22010-22060,Virginia,51.0,2001.0,2001.0,3868.0
+,Respiratory System,22010-22060,Virginia,51.0,2002.0,2002.0,4026.0
+,Respiratory System,22010-22060,Virginia,51.0,2003.0,2003.0,4135.0
+,Respiratory System,22010-22060,Virginia,51.0,2004.0,2004.0,4096.0
+,Respiratory System,22010-22060,Virginia,51.0,2005.0,2005.0,4255.0
+,Respiratory System,22010-22060,Virginia,51.0,2006.0,2006.0,4171.0
+,Respiratory System,22010-22060,Virginia,51.0,2007.0,2007.0,4164.0
+,Respiratory System,22010-22060,Virginia,51.0,2008.0,2008.0,4070.0
+,Respiratory System,22010-22060,Virginia,51.0,2009.0,2009.0,4111.0
+,Respiratory System,22010-22060,Virginia,51.0,2010.0,2010.0,4083.0
+,Respiratory System,22010-22060,Virginia,51.0,2011.0,2011.0,4103.0
+,Respiratory System,22010-22060,Virginia,51.0,2012.0,2012.0,4110.0
+,Respiratory System,22010-22060,Virginia,51.0,2013.0,2013.0,4001.0
+,Respiratory System,22010-22060,Virginia,51.0,2014.0,2014.0,4020.0
+,Respiratory System,22010-22060,Virginia,51.0,2015.0,2015.0,4028.0
+,Respiratory System,22010-22060,Virginia,51.0,2016.0,2016.0,3868.0
+,Respiratory System,22010-22060,Virginia,51.0,2017.0,2017.0,3828.0
+,Respiratory System,22010-22060,Virginia,51.0,2018.0,2018.0,3754.0
+,Respiratory System,22010-22060,Virginia,51.0,2019.0,2019.0,3676.0
+,Respiratory System,22010-22060,Virginia,51.0,2020.0,2020.0,3665.0
+,Respiratory System,22010-22060,Washington,53.0,1999.0,1999.0,3148.0
+,Respiratory System,22010-22060,Washington,53.0,2000.0,2000.0,3202.0
+,Respiratory System,22010-22060,Washington,53.0,2001.0,2001.0,3140.0
+,Respiratory System,22010-22060,Washington,53.0,2002.0,2002.0,3165.0
+,Respiratory System,22010-22060,Washington,53.0,2003.0,2003.0,3274.0
+,Respiratory System,22010-22060,Washington,53.0,2004.0,2004.0,3142.0
+,Respiratory System,22010-22060,Washington,53.0,2005.0,2005.0,3206.0
+,Respiratory System,22010-22060,Washington,53.0,2006.0,2006.0,3155.0
+,Respiratory System,22010-22060,Washington,53.0,2007.0,2007.0,3266.0
+,Respiratory System,22010-22060,Washington,53.0,2008.0,2008.0,3233.0
+,Respiratory System,22010-22060,Washington,53.0,2009.0,2009.0,3308.0
+,Respiratory System,22010-22060,Washington,53.0,2010.0,2010.0,3333.0
+,Respiratory System,22010-22060,Washington,53.0,2011.0,2011.0,3200.0
+,Respiratory System,22010-22060,Washington,53.0,2012.0,2012.0,3204.0
+,Respiratory System,22010-22060,Washington,53.0,2013.0,2013.0,3106.0
+,Respiratory System,22010-22060,Washington,53.0,2014.0,2014.0,3124.0
+,Respiratory System,22010-22060,Washington,53.0,2015.0,2015.0,3184.0
+,Respiratory System,22010-22060,Washington,53.0,2016.0,2016.0,2990.0
+,Respiratory System,22010-22060,Washington,53.0,2017.0,2017.0,3015.0
+,Respiratory System,22010-22060,Washington,53.0,2018.0,2018.0,2852.0
+,Respiratory System,22010-22060,Washington,53.0,2019.0,2019.0,2916.0
+,Respiratory System,22010-22060,Washington,53.0,2020.0,2020.0,2744.0
+,Respiratory System,22010-22060,West Virginia,54.0,1999.0,1999.0,1614.0
+,Respiratory System,22010-22060,West Virginia,54.0,2000.0,2000.0,1630.0
+,Respiratory System,22010-22060,West Virginia,54.0,2001.0,2001.0,1600.0
+,Respiratory System,22010-22060,West Virginia,54.0,2002.0,2002.0,1562.0
+,Respiratory System,22010-22060,West Virginia,54.0,2003.0,2003.0,1514.0
+,Respiratory System,22010-22060,West Virginia,54.0,2004.0,2004.0,1513.0
+,Respiratory System,22010-22060,West Virginia,54.0,2005.0,2005.0,1556.0
+,Respiratory System,22010-22060,West Virginia,54.0,2006.0,2006.0,1629.0
+,Respiratory System,22010-22060,West Virginia,54.0,2007.0,2007.0,1541.0
+,Respiratory System,22010-22060,West Virginia,54.0,2008.0,2008.0,1521.0
+,Respiratory System,22010-22060,West Virginia,54.0,2009.0,2009.0,1607.0
+,Respiratory System,22010-22060,West Virginia,54.0,2010.0,2010.0,1597.0
+,Respiratory System,22010-22060,West Virginia,54.0,2011.0,2011.0,1536.0
+,Respiratory System,22010-22060,West Virginia,54.0,2012.0,2012.0,1546.0
+,Respiratory System,22010-22060,West Virginia,54.0,2013.0,2013.0,1490.0
+,Respiratory System,22010-22060,West Virginia,54.0,2014.0,2014.0,1540.0
+,Respiratory System,22010-22060,West Virginia,54.0,2015.0,2015.0,1549.0
+,Respiratory System,22010-22060,West Virginia,54.0,2016.0,2016.0,1442.0
+,Respiratory System,22010-22060,West Virginia,54.0,2017.0,2017.0,1391.0
+,Respiratory System,22010-22060,West Virginia,54.0,2018.0,2018.0,1416.0
+,Respiratory System,22010-22060,West Virginia,54.0,2019.0,2019.0,1360.0
+,Respiratory System,22010-22060,West Virginia,54.0,2020.0,2020.0,1384.0
+,Respiratory System,22010-22060,Wisconsin,55.0,1999.0,1999.0,2731.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2000.0,2000.0,2732.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2001.0,2001.0,2840.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2002.0,2002.0,2871.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2003.0,2003.0,2801.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2004.0,2004.0,2985.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2005.0,2005.0,2938.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2006.0,2006.0,2946.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2007.0,2007.0,3001.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2008.0,2008.0,2977.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2009.0,2009.0,2950.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2010.0,2010.0,3056.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2011.0,2011.0,3187.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2012.0,2012.0,2999.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2013.0,2013.0,2992.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2014.0,2014.0,3053.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2015.0,2015.0,2957.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2016.0,2016.0,2869.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2017.0,2017.0,2896.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2018.0,2018.0,2769.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2019.0,2019.0,2798.0
+,Respiratory System,22010-22060,Wisconsin,55.0,2020.0,2020.0,2725.0
+,Respiratory System,22010-22060,Wyoming,56.0,1999.0,1999.0,249.0
+,Respiratory System,22010-22060,Wyoming,56.0,2000.0,2000.0,240.0
+,Respiratory System,22010-22060,Wyoming,56.0,2001.0,2001.0,240.0
+,Respiratory System,22010-22060,Wyoming,56.0,2002.0,2002.0,247.0
+,Respiratory System,22010-22060,Wyoming,56.0,2003.0,2003.0,251.0
+,Respiratory System,22010-22060,Wyoming,56.0,2004.0,2004.0,214.0
+,Respiratory System,22010-22060,Wyoming,56.0,2005.0,2005.0,260.0
+,Respiratory System,22010-22060,Wyoming,56.0,2006.0,2006.0,236.0
+,Respiratory System,22010-22060,Wyoming,56.0,2007.0,2007.0,256.0
+,Respiratory System,22010-22060,Wyoming,56.0,2008.0,2008.0,226.0
+,Respiratory System,22010-22060,Wyoming,56.0,2009.0,2009.0,244.0
+,Respiratory System,22010-22060,Wyoming,56.0,2010.0,2010.0,242.0
+,Respiratory System,22010-22060,Wyoming,56.0,2011.0,2011.0,232.0
+,Respiratory System,22010-22060,Wyoming,56.0,2012.0,2012.0,234.0
+,Respiratory System,22010-22060,Wyoming,56.0,2013.0,2013.0,237.0
+,Respiratory System,22010-22060,Wyoming,56.0,2014.0,2014.0,226.0
+,Respiratory System,22010-22060,Wyoming,56.0,2015.0,2015.0,219.0
+,Respiratory System,22010-22060,Wyoming,56.0,2016.0,2016.0,212.0
+,Respiratory System,22010-22060,Wyoming,56.0,2017.0,2017.0,222.0
+,Respiratory System,22010-22060,Wyoming,56.0,2018.0,2018.0,227.0
+,Respiratory System,22010-22060,Wyoming,56.0,2019.0,2019.0,232.0
+,Respiratory System,22010-22060,Wyoming,56.0,2020.0,2020.0,204.0
+---,,,,,,,
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2020 Mortality",,,,,,,
+Query Parameters:,,,,,,,
+Cancer Sites: Respiratory System,,,,,,,
+Group By: Cancer Sites; State; Year,,,,,,,
+Show Totals: Disabled,,,,,,,
+Show Zero Values: False,,,,,,,
+Show Suppressed: False,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,
+Standard Population: 2000 U.S. Std. Million,,,,,,,
+---,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/CancerMort-v2020.html for more information.,,,,,,,
+---,,,,,,,
+"Query Date: Oct 27, 2023 4:44:02 AM",,,,,,,
+---,,,,,,,
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2020, WONDER Online Database. United States Department",,,,,,,
+"of Health and Human Services, Centers for Disease Control and Prevention; 2023. Accessed at",,,,,,,
+"http://wonder.cdc.gov/CancerMort-v2020.html on Oct 27, 2023 4:44:02 AM",,,,,,,
+---,,,,,,,
+Caveats:,,,,,,,
+"1. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate",,,,,,,
+values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be,,,,,,,
+misleading.,,,,,,,
+"2. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were",,,,,,,
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:",,,,,,,
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may",,,,,,,
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence",,,,,,,
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one",,,,,,,
+code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are,,,,,,,
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was",,,,,,,
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the",,,,,,,
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US.",,,,,,,
+Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in,,,,,,,
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the",,,,,,,
+proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates.,,,,,,,
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this",,,,,,,
+report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this,,,,,,,
+data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>,,,,,,,
+3. Because the vast majority of Kaposi sarcoma (KS) cases have developed in association with human immunodeficiency virus (HIV),,,,,,,
+"infection and acquired immunodeficiency syndrome (AIDS), HIV/AIDS is listed as the underlying cause of death. Therefore, KS",,,,,,,
+death counts have been moved to the Miscellaneous category.,,,,,,,
+"4. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and",,,,,,,
+Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for,,,,,,,
+"these states, nor are these counts included in the summary populations for the affected division, regions or national",,,,,,,
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005.",,,,,,,
