@@ -87,6 +87,7 @@ df = pd.DataFrame({
     'Coordinates': coordinates,
 })
 
+ 
 df['PM2.5'] = [random.uniform(50, 100) for _ in range(len(df))]
 df.head()
 
