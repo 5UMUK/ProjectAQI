@@ -10,3 +10,5 @@ Particulate matter contains microscopic solids or liquid droplets that are so sm
 The vapors given off when gasoline evaporates and the substances produced when gasoline is burned (carbon monoxide, nitrogen oxides, particulate matter, sulphur dioxides and unburned hydrocarbons) contribute to air pollution. 
 
 ***Emissions from combustion of gasoline, oil, diesel fuel or wood produce much of the PM2. 5 pollution found in outdoor air.***
+
+**Folium Intervative Map**: https://nbviewer.org/github/5UMUK/ProjectAQI/blob/main/Data_Visualisation/Visualisation.ipynb
